@@ -22,3 +22,9 @@ You can also sort what it will record by setting a limit on the number of manga 
 Example: I want to get all tags with 1000+ mangas.
 All you need is on line 46 in the code to change the value in if.
 Or if you want to disable sorting, you need to put 0 there.
+
+
+
+Также вы можете посмотреть другие скраперы в моем профиле.
+
+You can also see other scrapers in my profile.
